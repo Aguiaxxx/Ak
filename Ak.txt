@@ -1,0 +1,3 @@
+sudo adduser mister
+sudo usermod -aG sudo mister
+su - mister
