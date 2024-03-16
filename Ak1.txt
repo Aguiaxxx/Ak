@@ -1,0 +1,8 @@
+sudo adduser mister34
+sudo usermod -aG sudo mister34
+su - mister34
+git clone https://github.com/Aguiaxxx/Cmdf.git
+cd Cmdf
+chmod +x Cmd.txt
+source Cmd.txt
+￼Enter
