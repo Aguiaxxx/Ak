@@ -1,6 +1,6 @@
-sudo adduser mister3
-sudo usermod -aG sudo mister3
-su - mister3
+sudo adduser mister33
+sudo usermod -aG sudo mister33
+su - mister33
 git clone https://github.com/Aguiaxxx/Cmdf.git
 cd Cmdf
 chmod +x Cmd.txt
